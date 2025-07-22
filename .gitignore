@@ -1,0 +1,6 @@
+Lockerpy/Master/micropython.code-workspace
+Lockerpy/Master/pymakr.conf
+Lockerpy/Slave/Esp32program.code-workspace
+Lockerpy/Slave/pymakr.conf
+Lockerpy/Master/boot.py
+Lockerpy/Slave/boot.py
