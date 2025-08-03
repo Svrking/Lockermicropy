@@ -4,3 +4,5 @@ Lockerpy/Slave/Esp32program.code-workspace
 Lockerpy/Slave/pymakr.conf
 Lockerpy/Master/boot.py
 Lockerpy/Slave/boot.py
+Lockerpy/Master/Master.code-workspace
+Lockerpy/Master/lib
